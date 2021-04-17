@@ -1,0 +1,8 @@
+﻿  PushPush.c
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(257,54): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(257,54): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(515,3): warning C4033: 'pop'은(는) 값을 반환해야 합니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(526,3): warning C4033: 'peek'은(는) 값을 반환해야 합니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(520): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\PushPush\PushPush.c(530): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PushPush.vcxproj -> C:\Users\ralsk\바탕 화면\study\programming\Cproject\PushPush\Debug\PushPush.exe
